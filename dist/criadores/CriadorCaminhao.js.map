@@ -1,0 +1,1 @@
+{"version":3,"file":"CriadorCaminhao.js","sourceRoot":"","sources":["../../src/criadores/CriadorCaminhao.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,qBAAqB,CAAC;AAErD,OAAO,EAAE,QAAQ,EAAE,MAAM,wBAAwB,CAAC;AAElD,MAAM,OAAO,eAAgB,SAAQ,cAAc;IAC/C,YAAY;QACR,OAAO,IAAI,QAAQ,EAAE,CAAC;IAC1B,CAAC;CACJ"}

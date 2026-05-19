@@ -1,0 +1,1 @@
+{"version":3,"file":"CriadorCarro.js","sourceRoot":"","sources":["../../src/criadores/CriadorCarro.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,cAAc,EAAE,MAAM,qBAAqB,CAAC;AAErD,OAAO,EAAE,KAAK,EAAE,MAAM,qBAAqB,CAAC;AAE5C,MAAM,OAAO,YAAa,SAAQ,cAAc;IAC5C,YAAY;QACR,OAAO,IAAI,KAAK,EAAE,CAAC;IACvB,CAAC;CACJ"}

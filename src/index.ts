@@ -1,15 +1,20 @@
-import { VeiculoFactory } from "./factory/VeiculoFactory.js";
+import { CriadorVeiculo } from "./criadores/CriadorVeiculo.js";
+import { CriadorCarro } from "./criadores/CriadorCarro.js";
+import { CriadorMoto } from "./criadores/CriadorMoto.js";
+import { CriadorCaminhao } from "./criadores/CriadorCaminhao.js";
 
-const fabrica = new VeiculoFactory();
+const criadores: Array<CriadorVeiculo> = [
+    new CriadorCarro(),
+    new CriadorCarro(),
+    new CriadorCarro(),
+    new CriadorMoto(),
+    new CriadorMoto(),
+    new CriadorMoto(),
+    new CriadorCaminhao(),
+    new CriadorCaminhao(),
+    new CriadorCaminhao()
+];
 
-const veiculo1 = fabrica.criarVeiculo("carro");
-veiculo1.acelerar();
-
-const veiculo2 = fabrica.criarVeiculo("moto");
-veiculo2.acelerar();
-
-const veiculo3 = fabrica.criarVeiculo("caminhao");
-veiculo3.acelerar();
-
-/*const veiculo4 = fabrica.criarVeiculo("barco");
-veiculo4.acelerar();*/
+criadores.forEach((criador) => {
+    criador.executarAcao();
+});

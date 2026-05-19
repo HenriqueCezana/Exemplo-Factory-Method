@@ -1,4 +1,4 @@
-import { Veiculo } from "../interface/Veiculo.js";
+import { Veiculo } from "../interfaces/Veiculo.js";
 
 export class Caminhao implements Veiculo {
     acelerar(): void {

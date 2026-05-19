@@ -7,5 +7,6 @@ export abstract class CriadorVeiculo {
     executarAcao(): void {
         const veiculo = this.criarVeiculo();
         veiculo.acelerar();
+        veiculo.freiar();
     }
 }

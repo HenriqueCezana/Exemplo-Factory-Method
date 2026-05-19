@@ -1,1 +1,1 @@
-{"version":3,"file":"CriadorVeiculo.js","sourceRoot":"","sources":["../../src/criadores/CriadorVeiculo.ts"],"names":[],"mappings":"AAEA,MAAM,OAAgB,cAAc;IAIhC,YAAY;QACR,MAAM,OAAO,GAAG,IAAI,CAAC,YAAY,EAAE,CAAC;QACpC,OAAO,CAAC,QAAQ,EAAE,CAAC;IACvB,CAAC;CACJ"}
+{"version":3,"file":"CriadorVeiculo.js","sourceRoot":"","sources":["../../src/criadores/CriadorVeiculo.ts"],"names":[],"mappings":"AAEA,MAAM,OAAgB,cAAc;IAIhC,YAAY;QACR,MAAM,OAAO,GAAG,IAAI,CAAC,YAAY,EAAE,CAAC;QACpC,OAAO,CAAC,QAAQ,EAAE,CAAC;QACnB,OAAO,CAAC,MAAM,EAAE,CAAC;IACrB,CAAC;CACJ"}

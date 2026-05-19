@@ -1,1 +1,1 @@
-{"version":3,"file":"Caminhao.js","sourceRoot":"","sources":["../../src/classes/Caminhao.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,QAAQ;IACjB,QAAQ;QACJ,OAAO,CAAC,GAAG,CAAC,sBAAsB,CAAC,CAAC;IACxC,CAAC;CACJ"}
+{"version":3,"file":"Caminhao.js","sourceRoot":"","sources":["../../src/classes/Caminhao.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,QAAQ;IACjB,QAAQ;QACJ,OAAO,CAAC,GAAG,CAAC,sBAAsB,CAAC,CAAC;IACxC,CAAC;IAED,MAAM;QACF,OAAO,CAAC,GAAG,CAAC,oBAAoB,CAAC,CAAC;IACtC,CAAC;CACJ"}

@@ -1,1 +1,1 @@
-{"version":3,"file":"Carro.js","sourceRoot":"","sources":["../../src/classes/Carro.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,KAAK;IACd,QAAQ;QACJ,OAAO,CAAC,GAAG,CAAC,mBAAmB,CAAC,CAAC;IACrC,CAAC;CACJ"}
+{"version":3,"file":"Carro.js","sourceRoot":"","sources":["../../src/classes/Carro.ts"],"names":[],"mappings":"AAEA,MAAM,OAAO,KAAK;IACd,QAAQ;QACJ,OAAO,CAAC,GAAG,CAAC,mBAAmB,CAAC,CAAC;IACrC,CAAC;IAED,MAAM;QACF,OAAO,CAAC,GAAG,CAAC,iBAAiB,CAAC,CAAC;IACnC,CAAC;CACJ"}

@@ -6,11 +6,8 @@ import { CriadorCaminhao } from "./criadores/CriadorCaminhao.js";
 const criadores: Array<CriadorVeiculo> = [
     new CriadorCarro(),
     new CriadorCarro(),
-    new CriadorCarro(),
     new CriadorMoto(),
     new CriadorMoto(),
-    new CriadorMoto(),
-    new CriadorCaminhao(),
     new CriadorCaminhao(),
     new CriadorCaminhao()
 ];
